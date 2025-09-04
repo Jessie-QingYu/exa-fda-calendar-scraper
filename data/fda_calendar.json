@@ -1,0 +1,481 @@
+{
+  "events": [
+    {
+      "date": "2025-02-13",
+      "company": "Agios Pharmaceuticals",
+      "ticker": "AGIO",
+      "drug": "Mitapivat",
+      "event_type": "Primary Endpoint",
+      "notes": "Agios Pharmaceuticals, announced that the AC...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43687696/agios-phase-3-activate-kids-study-of-mitapivat-in-children-with-pyruvate-kinase-pk-deficiency-not-"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "Annexon",
+      "ticker": "ANNX",
+      "drug": "ANX007",
+      "event_type": "Presentation",
+      "notes": "Annexon, Inc. announced presentations on ANX...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43692147/annexon-announces-presentations-highlighting-anx007-functional-and-structural-differentiation-in-g"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "BioCardia",
+      "ticker": "BCDA",
+      "drug": "BCDA-03",
+      "event_type": "Enrollment Update",
+      "notes": "BioCardia, announced today completion of enro...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43692141/biocardia-reports-completion-of-low-dose-cohort-enrollment-for-cardiallo-phase-iii-clinical-trial-"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "Bio-Path Holdings",
+      "ticker": "BPTH",
+      "drug": "BP1001-A",
+      "event_type": "Provided Update",
+      "notes": "Bio-Path Holdings, Inc provides an update fro...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43690774/bio-path-holdings-provides-key-clinical-updates"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "",
+      "ticker": "CDT",
+      "drug": "AZD1656",
+      "event_type": "Provided Update",
+      "notes": "Conduit Pharmaceuticals Inc. announce an agr...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43690749/conduit-pharmaceuticals-partners-with-charles-river-in-clinically-relevant-systemic-lupus-erythema"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "Genprex",
+      "ticker": "GNPX",
+      "drug": "Oncoprex",
+      "event_type": "Provided Update",
+      "notes": "Genprex, Inc announced that its research coll...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/n43691635/genprex-collaborators-find-nprl2-gene-therapy-using-oncoprex-delivery-system-is-a-potential-treatm"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "IDEAYA Biosciences",
+      "ticker": "IDYA",
+      "drug": "IDE397",
+      "event_type": "Provided Update",
+      "notes": "IDEAYA Biosciences, Inc. announced it has e...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/n43687015/ideaya-announces-further-gilead-sciences-clinical-study-collaboration-evaluating-combination-of-tr"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "",
+      "ticker": "JNJ",
+      "drug": "Nipocalimab",
+      "event_type": "Data Publication",
+      "notes": "Johnson & Johnson announced the publication o...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/n43691284/new-nipocalimab-data-published-in-mabs-journal-details-differentiated-molecular-design-clinical-pr"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "InspireMD",
+      "ticker": "NSPR",
+      "drug": "CGuard",
+      "event_type": "Provided Update",
+      "notes": "InspireMD, Inc announced strategic outsourci...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43688508/inspiremd-and-namsa-to-partner-on-cguardians-ii-pivotal-clinical-trial-of-the-cguard-prime-80-cm-c"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "",
+      "ticker": "NTRB",
+      "drug": "AVERSA",
+      "event_type": "Provided Update",
+      "notes": "Nutriband Inc. announced that it has signed a...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43688524/nutriband-and-kindeva-drug-delivery-formalize-exclusive-development-partnership-for-aversa-fentany"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "",
+      "ticker": "PFE",
+      "drug": "Mevrometostat",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "RenovoRx",
+      "ticker": "RNXT",
+      "drug": "RenovoCath",
+      "event_type": "Preclinical Data",
+      "notes": "RenovoRx, Inc abstract published promising pr...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/b43690828/renovorx-highlights-promising-pre-clinical-data-abstract-tamp-therapy-platform-offers-potential-to"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "",
+      "ticker": "TCBP",
+      "drug": "TCB008",
+      "event_type": "Dose Update",
+      "notes": "TC BioPharm announced that it has concluded ...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/n43692157/tcbp-announces-successful-completion-of-cohort-a-in-the-achieve-clinical-trial"
+    },
+    {
+      "date": "2025-02-13",
+      "company": "",
+      "ticker": "VERU",
+      "drug": "Sabizabulin (VERACITY)",
+      "event_type": "Provided Update",
+      "notes": "Veru Inc provided an update on progress of it...",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43687694/veru-reports-fiscal-2025-first-quarter-financial-results-and-clinical-program-progress"
+    },
+    {
+      "date": "2025-02-14",
+      "company": "",
+      "ticker": "GSK",
+      "drug": "5-in-1 meningococcal ABCWY",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-02-17",
+      "company": "",
+      "ticker": "OPHLF.PK",
+      "drug": "Vimseltinib",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-02-24",
+      "company": "",
+      "ticker": "NVS",
+      "drug": "FABHALTA",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-02-26",
+      "company": "",
+      "ticker": "ALPMY",
+      "drug": "IZERVAY",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-02-28",
+      "company": "",
+      "ticker": "ETON",
+      "drug": "ET-400",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-02-28",
+      "company": "",
+      "ticker": "SWTX",
+      "drug": "Mirdametinib",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-06",
+      "company": "",
+      "ticker": "SCPH",
+      "drug": "FUROSCIX",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-06",
+      "company": "",
+      "ticker": "SPRY",
+      "drug": "Neffy 1 mg",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-12",
+      "company": "",
+      "ticker": "OGN",
+      "drug": "VTAMA",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-23",
+      "company": "",
+      "ticker": "ALNY",
+      "drug": "Vutrisiran",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-24",
+      "company": "",
+      "ticker": "TLPPF",
+      "drug": "TLX007-CDx",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-26",
+      "company": "",
+      "ticker": "GSK",
+      "drug": "Gepotidacin",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-26",
+      "company": "",
+      "ticker": "MIST",
+      "drug": "CARDAMYST",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-27",
+      "company": "",
+      "ticker": "MIST",
+      "drug": "CARDAMYST",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-27",
+      "company": "",
+      "ticker": "SLNO",
+      "drug": "Diazoxide Choline Controlled-Release tablet",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-28",
+      "company": "",
+      "ticker": "ALNY",
+      "drug": "Fitusiran",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-28",
+      "company": "",
+      "ticker": "MIRM",
+      "drug": "Chenodiol",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-03-28",
+      "company": "",
+      "ticker": "SNYNF",
+      "drug": "Fitusiran",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-04-02",
+      "company": "",
+      "ticker": "ALDX",
+      "drug": "Reproxalap",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-04-03",
+      "company": "",
+      "ticker": "EXEL",
+      "drug": "CABOMETYX",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-04-10",
+      "company": "",
+      "ticker": "ARGX",
+      "drug": "VYVGART SC pre-filled syringe",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-04-18",
+      "company": "",
+      "ticker": "REGN",
+      "drug": "Dupixent",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-04-18",
+      "company": "",
+      "ticker": "SNYNF",
+      "drug": "Dupixent",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-04-21",
+      "company": "",
+      "ticker": "BMY",
+      "drug": "Opdivo plus Yervoy",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-04-26",
+      "company": "",
+      "ticker": "TLPPF",
+      "drug": "TLX101-CDx",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-04-29",
+      "company": "",
+      "ticker": "ABEO",
+      "drug": "Pz-cel",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-05-01",
+      "company": "",
+      "ticker": "GERN",
+      "drug": "Imetelstat",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-05-01",
+      "company": "",
+      "ticker": "INZY",
+      "drug": "INZ-701",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-05-01",
+      "company": "",
+      "ticker": "IONS",
+      "drug": "Pelacarsen",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-05-01",
+      "company": "",
+      "ticker": "PFE",
+      "drug": "VLA15",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-05-01",
+      "company": "",
+      "ticker": "SAVA",
+      "drug": "Simufilam",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-05-07",
+      "company": "",
+      "ticker": "GSK",
+      "drug": "Nucala",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-05-22",
+      "company": "",
+      "ticker": "ARQT",
+      "drug": "ZORYVE",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-07-01",
+      "company": "",
+      "ticker": "IOBT",
+      "drug": "IO102-IO103 + KEYTRUDA",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-07-01",
+      "company": "",
+      "ticker": "LRMR",
+      "drug": "CTI-1601",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-07-01",
+      "company": "",
+      "ticker": "LRMR",
+      "drug": "CTI-1601",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2025-09-01",
+      "company": "",
+      "ticker": "MNKD",
+      "drug": "Afrezza",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2026-01-01",
+      "company": "",
+      "ticker": "GERN",
+      "drug": "IMpactMF",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "date": "2028-02-01",
+      "company": "",
+      "ticker": "AMGN",
+      "drug": "SOTORASIB CODEBREAK 200",
+      "event_type": "Unspecified",
+      "notes": "Pending",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    }
+  ]
+}

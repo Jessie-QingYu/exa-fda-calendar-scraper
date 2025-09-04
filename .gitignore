@@ -1,0 +1,33 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ---- Virtual environment ----
+.venv/
+env/
+venv/
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+
+# ---- Environment variables ----
+.env
+
+# ---- Test / Coverage ----
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+
+# ---- OS generated ----
+.DS_Store
+Thumbs.db
+
+# ---- Packaging ----
+*.egg-info/
+
+
