@@ -1,0 +1,436 @@
+{
+  "events": [
+    {
+      "drug": "---",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "---",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Mitapivat",
+      "indication": "",
+      "company": "Agios Pharmaceuticals",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43687696/agios-phase-3-activate-kids-study-of-mitapivat-in-children-with-pyruvate-kinase-pk-deficiency-not-"
+    },
+    {
+      "drug": "ANX007",
+      "indication": "",
+      "company": "Annexon",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43692147/annexon-announces-presentations-highlighting-anx007-functional-and-structural-differentiation-in-g"
+    },
+    {
+      "drug": "BCDA-03",
+      "indication": "",
+      "company": "BioCardia",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43692141/biocardia-reports-completion-of-low-dose-cohort-enrollment-for-cardiallo-phase-iii-clinical-trial-"
+    },
+    {
+      "drug": "BP1001-A",
+      "indication": "",
+      "company": "Bio-Path Holdings",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43690774/bio-path-holdings-provides-key-clinical-updates"
+    },
+    {
+      "drug": "AZD1656",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43690749/conduit-pharmaceuticals-partners-with-charles-river-in-clinically-relevant-systemic-lupus-erythema"
+    },
+    {
+      "drug": "Oncoprex",
+      "indication": "",
+      "company": "Genprex",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/n43691635/genprex-collaborators-find-nprl2-gene-therapy-using-oncoprex-delivery-system-is-a-potential-treatm"
+    },
+    {
+      "drug": "IDE397",
+      "indication": "",
+      "company": "IDEAYA Biosciences",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/n43687015/ideaya-announces-further-gilead-sciences-clinical-study-collaboration-evaluating-combination-of-tr"
+    },
+    {
+      "drug": "Nipocalimab",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/n43691284/new-nipocalimab-data-published-in-mabs-journal-details-differentiated-molecular-design-clinical-pr"
+    },
+    {
+      "drug": "CGuard",
+      "indication": "",
+      "company": "InspireMD",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43688508/inspiremd-and-namsa-to-partner-on-cguardians-ii-pivotal-clinical-trial-of-the-cguard-prime-80-cm-c"
+    },
+    {
+      "drug": "AVERSA",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43688524/nutriband-and-kindeva-drug-delivery-formalize-exclusive-development-partnership-for-aversa-fentany"
+    },
+    {
+      "drug": "Mevrometostat",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "RenovoCath",
+      "indication": "",
+      "company": "RenovoRx",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/b43690828/renovorx-highlights-promising-pre-clinical-data-abstract-tamp-therapy-platform-offers-potential-to"
+    },
+    {
+      "drug": "TCB008",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/n43692157/tcbp-announces-successful-completion-of-cohort-a-in-the-achieve-clinical-trial"
+    },
+    {
+      "drug": "Sabizabulin (VERACITY)",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-13",
+      "source_url": "https://www.benzinga.com/pressreleases/25/02/g43687694/veru-reports-fiscal-2025-first-quarter-financial-results-and-clinical-program-progress"
+    },
+    {
+      "drug": "5-in-1 meningococcal ABCWY",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-14",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Vimseltinib",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-17",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "FABHALTA",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-24",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "IZERVAY",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-26",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "ET-400",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-28",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Mirdametinib",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-02-28",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "FUROSCIX",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-06",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Neffy 1 mg",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-06",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "VTAMA",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-12",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Vutrisiran",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-23",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "TLX007-CDx",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-24",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Gepotidacin",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-26",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "CARDAMYST",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-26",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "CARDAMYST",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-27",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Diazoxide Choline Controlled-Release tablet",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-27",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Fitusiran",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-28",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Chenodiol",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-28",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Fitusiran",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-28",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Reproxalap",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-04-02",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "CABOMETYX",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-04-03",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "VYVGART SC pre-filled syringe",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-04-10",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Dupixent",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-04-18",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Dupixent",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-04-18",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Opdivo plus Yervoy",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-04-21",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "TLX101-CDx",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-04-26",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Pz-cel",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-04-29",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Imetelstat",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-05-01",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "INZ-701",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-05-01",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Pelacarsen",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-05-01",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "VLA15",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-05-01",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Simufilam",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-05-01",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Nucala",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-05-07",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "ZORYVE",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-05-22",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "IO102-IO103 + KEYTRUDA",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-07-01",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "CTI-1601",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-07-01",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "CTI-1601",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-07-01",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "Afrezza",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-09-01",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "IMpactMF",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2026-01-01",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    },
+    {
+      "drug": "SOTORASIB CODEBREAK 200",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2028-02-01",
+      "source_url": "https://unusualwhales.com/fda-calendar"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "events": [
+    {
+      "drug": "",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "| End Date | Meeting | Contributing Office | Center |",
+      "source_url": "https://www.fda.gov/advisory-committees/advisory-committee-calendar"
+    }
+  ]
+}

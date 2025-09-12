@@ -1,54 +1,84 @@
-date,company,ticker,drug,event_type,notes,source_url
-2025-02-13,Agios Pharmaceuticals,AGIO,Mitapivat,Primary Endpoint,"Agios Pharmaceuticals, announced that the AC...",https://www.benzinga.com/pressreleases/25/02/g43687696/agios-phase-3-activate-kids-study-of-mitapivat-in-children-with-pyruvate-kinase-pk-deficiency-not-
-2025-02-13,Annexon,ANNX,ANX007,Presentation,"Annexon, Inc. announced presentations on ANX...",https://www.benzinga.com/pressreleases/25/02/g43692147/annexon-announces-presentations-highlighting-anx007-functional-and-structural-differentiation-in-g
-2025-02-13,BioCardia,BCDA,BCDA-03,Enrollment Update,"BioCardia, announced today completion of enro...",https://www.benzinga.com/pressreleases/25/02/g43692141/biocardia-reports-completion-of-low-dose-cohort-enrollment-for-cardiallo-phase-iii-clinical-trial-
-2025-02-13,Bio-Path Holdings,BPTH,BP1001-A,Provided Update,"Bio-Path Holdings, Inc provides an update fro...",https://www.benzinga.com/pressreleases/25/02/g43690774/bio-path-holdings-provides-key-clinical-updates
-2025-02-13,,CDT,AZD1656,Provided Update,Conduit Pharmaceuticals Inc. announce an agr...,https://www.benzinga.com/pressreleases/25/02/g43690749/conduit-pharmaceuticals-partners-with-charles-river-in-clinically-relevant-systemic-lupus-erythema
-2025-02-13,Genprex,GNPX,Oncoprex,Provided Update,"Genprex, Inc announced that its research coll...",https://www.benzinga.com/pressreleases/25/02/n43691635/genprex-collaborators-find-nprl2-gene-therapy-using-oncoprex-delivery-system-is-a-potential-treatm
-2025-02-13,IDEAYA Biosciences,IDYA,IDE397,Provided Update,"IDEAYA Biosciences, Inc. announced it has e...",https://www.benzinga.com/pressreleases/25/02/n43687015/ideaya-announces-further-gilead-sciences-clinical-study-collaboration-evaluating-combination-of-tr
-2025-02-13,,JNJ,Nipocalimab,Data Publication,Johnson & Johnson announced the publication o...,https://www.benzinga.com/pressreleases/25/02/n43691284/new-nipocalimab-data-published-in-mabs-journal-details-differentiated-molecular-design-clinical-pr
-2025-02-13,InspireMD,NSPR,CGuard,Provided Update,"InspireMD, Inc announced strategic outsourci...",https://www.benzinga.com/pressreleases/25/02/g43688508/inspiremd-and-namsa-to-partner-on-cguardians-ii-pivotal-clinical-trial-of-the-cguard-prime-80-cm-c
-2025-02-13,,NTRB,AVERSA,Provided Update,Nutriband Inc. announced that it has signed a...,https://www.benzinga.com/pressreleases/25/02/g43688524/nutriband-and-kindeva-drug-delivery-formalize-exclusive-development-partnership-for-aversa-fentany
-2025-02-13,,PFE,Mevrometostat,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-02-13,RenovoRx,RNXT,RenovoCath,Preclinical Data,"RenovoRx, Inc abstract published promising pr...",https://www.benzinga.com/pressreleases/25/02/b43690828/renovorx-highlights-promising-pre-clinical-data-abstract-tamp-therapy-platform-offers-potential-to
-2025-02-13,,TCBP,TCB008,Dose Update,TC BioPharm announced that it has concluded ...,https://www.benzinga.com/pressreleases/25/02/n43692157/tcbp-announces-successful-completion-of-cohort-a-in-the-achieve-clinical-trial
-2025-02-13,,VERU,Sabizabulin (VERACITY),Provided Update,Veru Inc provided an update on progress of it...,https://www.benzinga.com/pressreleases/25/02/g43687694/veru-reports-fiscal-2025-first-quarter-financial-results-and-clinical-program-progress
-2025-02-14,,GSK,5-in-1 meningococcal ABCWY,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-02-17,,OPHLF.PK,Vimseltinib,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-02-24,,NVS,FABHALTA,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-02-26,,ALPMY,IZERVAY,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-02-28,,ETON,ET-400,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-02-28,,SWTX,Mirdametinib,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-06,,SCPH,FUROSCIX,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-06,,SPRY,Neffy 1 mg,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-12,,OGN,VTAMA,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-23,,ALNY,Vutrisiran,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-24,,TLPPF,TLX007-CDx,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-26,,GSK,Gepotidacin,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-26,,MIST,CARDAMYST,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-27,,MIST,CARDAMYST,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-27,,SLNO,Diazoxide Choline Controlled-Release tablet,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-28,,ALNY,Fitusiran,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-28,,MIRM,Chenodiol,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-03-28,,SNYNF,Fitusiran,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-04-02,,ALDX,Reproxalap,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-04-03,,EXEL,CABOMETYX,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-04-10,,ARGX,VYVGART SC pre-filled syringe,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-04-18,,REGN,Dupixent,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-04-18,,SNYNF,Dupixent,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-04-21,,BMY,Opdivo plus Yervoy,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-04-26,,TLPPF,TLX101-CDx,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-04-29,,ABEO,Pz-cel,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-05-01,,GERN,Imetelstat,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-05-01,,INZY,INZ-701,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-05-01,,IONS,Pelacarsen,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-05-01,,PFE,VLA15,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-05-01,,SAVA,Simufilam,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-05-07,,GSK,Nucala,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-05-22,,ARQT,ZORYVE,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-07-01,,IOBT,IO102-IO103 + KEYTRUDA,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-07-01,,LRMR,CTI-1601,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-07-01,,LRMR,CTI-1601,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2025-09-01,,MNKD,Afrezza,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2026-01-01,,GERN,IMpactMF,Unspecified,Pending,https://unusualwhales.com/fda-calendar
-2028-02-01,,AMGN,SOTORASIB CODEBREAK 200,Unspecified,Pending,https://unusualwhales.com/fda-calendar
+drug,indication,company,pdufa_date,fda_date_no_pdufa,source_url
+---,,,,---,https://unusualwhales.com/fda-calendar
+,,[11.30.2025],,2001-25-06,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+,,,,2018-25-02,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+,,,,2023-24-07,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+ANX007,,Annexon,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/g43692147/annexon-announces-presentations-highlighting-anx007-functional-and-structural-differentiation-in-g
+AVERSA,,,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/g43688524/nutriband-and-kindeva-drug-delivery-formalize-exclusive-development-partnership-for-aversa-fentany
+AZD1656,,,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/g43690749/conduit-pharmaceuticals-partners-with-charles-river-in-clinically-relevant-systemic-lupus-erythema
+BCDA-03,,BioCardia,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/g43692141/biocardia-reports-completion-of-low-dose-cohort-enrollment-for-cardiallo-phase-iii-clinical-trial-
+BP1001-A,,Bio-Path Holdings,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/g43690774/bio-path-holdings-provides-key-clinical-updates
+CGuard,,InspireMD,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/g43688508/inspiremd-and-namsa-to-partner-on-cguardians-ii-pivotal-clinical-trial-of-the-cguard-prime-80-cm-c
+IDE397,,IDEAYA Biosciences,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/n43687015/ideaya-announces-further-gilead-sciences-clinical-study-collaboration-evaluating-combination-of-tr
+Mevrometostat,,,,2025-02-13,https://unusualwhales.com/fda-calendar
+Mitapivat,,Agios Pharmaceuticals,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/g43687696/agios-phase-3-activate-kids-study-of-mitapivat-in-children-with-pyruvate-kinase-pk-deficiency-not-
+Nipocalimab,,,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/n43691284/new-nipocalimab-data-published-in-mabs-journal-details-differentiated-molecular-design-clinical-pr
+Oncoprex,,Genprex,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/n43691635/genprex-collaborators-find-nprl2-gene-therapy-using-oncoprex-delivery-system-is-a-potential-treatm
+RenovoCath,,RenovoRx,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/b43690828/renovorx-highlights-promising-pre-clinical-data-abstract-tamp-therapy-platform-offers-potential-to
+Sabizabulin (VERACITY),,,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/g43687694/veru-reports-fiscal-2025-first-quarter-financial-results-and-clinical-program-progress
+TCB008,,,,2025-02-13,https://www.benzinga.com/pressreleases/25/02/n43692157/tcbp-announces-successful-completion-of-cohort-a-in-the-achieve-clinical-trial
+5-in-1 meningococcal ABCWY,,,,2025-02-14,https://unusualwhales.com/fda-calendar
+Vimseltinib,,,,2025-02-17,https://unusualwhales.com/fda-calendar
+FABHALTA,,,,2025-02-24,https://unusualwhales.com/fda-calendar
+IZERVAY,,,,2025-02-26,https://unusualwhales.com/fda-calendar
+ET-400,,,,2025-02-28,https://unusualwhales.com/fda-calendar
+Mirdametinib,,,,2025-02-28,https://unusualwhales.com/fda-calendar
+FUROSCIX,,,,2025-03-06,https://unusualwhales.com/fda-calendar
+Neffy 1 mg,,,,2025-03-06,https://unusualwhales.com/fda-calendar
+VTAMA,,,,2025-03-12,https://unusualwhales.com/fda-calendar
+Vutrisiran,,,,2025-03-23,https://unusualwhales.com/fda-calendar
+TLX007-CDx,,,,2025-03-24,https://unusualwhales.com/fda-calendar
+CARDAMYST,,,,2025-03-26,https://unusualwhales.com/fda-calendar
+Gepotidacin,,,,2025-03-26,https://unusualwhales.com/fda-calendar
+CARDAMYST,,,,2025-03-27,https://unusualwhales.com/fda-calendar
+Diazoxide Choline Controlled-Release tablet,,,,2025-03-27,https://unusualwhales.com/fda-calendar
+Chenodiol,,,,2025-03-28,https://unusualwhales.com/fda-calendar
+Fitusiran,,,,2025-03-28,https://unusualwhales.com/fda-calendar
+Reproxalap,,,,2025-04-02,https://unusualwhales.com/fda-calendar
+CABOMETYX,,,,2025-04-03,https://unusualwhales.com/fda-calendar
+VYVGART SC pre-filled syringe,,,,2025-04-10,https://unusualwhales.com/fda-calendar
+Dupixent,,,,2025-04-18,https://unusualwhales.com/fda-calendar
+Opdivo plus Yervoy,,,,2025-04-21,https://unusualwhales.com/fda-calendar
+TLX101-CDx,,,,2025-04-26,https://unusualwhales.com/fda-calendar
+Pz-cel,,,,2025-04-29,https://unusualwhales.com/fda-calendar
+INZ-701,,,,2025-05-01,https://unusualwhales.com/fda-calendar
+Imetelstat,,,,2025-05-01,https://unusualwhales.com/fda-calendar
+Pelacarsen,,,,2025-05-01,https://unusualwhales.com/fda-calendar
+Simufilam,,,,2025-05-01,https://unusualwhales.com/fda-calendar
+VLA15,,,,2025-05-01,https://unusualwhales.com/fda-calendar
+Nucala,,,,2025-05-07,https://unusualwhales.com/fda-calendar
+ZORYVE,,,,2025-05-22,https://unusualwhales.com/fda-calendar
+CTI-1601,,,,2025-07-01,https://unusualwhales.com/fda-calendar
+IO102-IO103 + KEYTRUDA,,,,2025-07-01,https://unusualwhales.com/fda-calendar
+Afrezza,,,,2025-09-01,https://unusualwhales.com/fda-calendar
+,,,,2025-24-20,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+,,,,2025-25-20,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+,,,,2025-54-00,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+IMpactMF,,,,2026-01-01,https://unusualwhales.com/fda-calendar
+SOTORASIB CODEBREAK 200,,,,2028-02-01,https://unusualwhales.com/fda-calendar
+,,,,2028-24-08,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+,,"names or tickers, events, date-wise or based on a date range. They are designed to serve as a ‘one-stop shop’ for data needs of investors, both existing and potential, to capitalize on the opportunities these catalysts throw up or cut the losses from an adverse development.",,,https://www.benzinga.com/fda-calendar/exact-dates
+,,"may have made in the investigational therapy could go down the drain. Quite appropriately, investors punish the stock by selling it in droves.",,,https://www.benzinga.com/fda-calendar/exact-dates
+,,| Close ▲▼ | ±% | Avg. Vol ▲▼ | Buy Stock |,,,https://www.benzinga.com/fda-calendar/exact-dates
+,,to fund the review process.,,,https://www.benzinga.com/fda-calendar/exact-dates
+,,"may roughly calculate a timeline based on the data of filing the regulatory application. If the company doesn’t provide a timeline either, it is left to the investors to do the calculations.",,,https://www.benzinga.com/fda-calendar/exact-dates
+,,"files for a regulatory application, the FDA takes up to 60 days to respond with an ‘accepted for review’ or ‘refuse-to-file’ decision.",,,https://www.benzinga.com/fda-calendar/exact-dates
+**HMPL-306 - (RAPHAEL)**,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+**HMPL-523 - (ESLIM-01)** BTD,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+**NurOwn** [View Clinical Trial Data](javascript:;),,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+**Paxalisib (PNOC022)** [View Clinical Trial Data](javascript:;),,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+**RYONCIL (remestemcel-L) - (MSB-GVHD001)**,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+**Roflumilast Cream (ARQ-151) - (INTEGUMENT-1 and INTEGUMENT-2)**,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+**SULANDA (surufatinib)**,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+**Sovleplenib - (ESLIM-02)**,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+**Tumor Treating Fields (TTFields) - (LUNAR)** [View Clinical Trial Data](javascript:;),,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+---,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+"User Fee Act date, in short, PDUFA date, refers to the date/period by which the FDA is mandated to give its verdict on the regulatory application filed by the sponsor company. The verdict can be an ‘approved’ decision, or a ‘complete response letter’ or a delay due to reasons specific to the company or extraneous to the company.",,or extraneous to the company.,,,https://www.benzinga.com/fda-calendar/exact-dates
+With FDA Nod For Saxenda](https://www.benzinga.com/news/health-care/25/08/47397079/teva-launches-generic-glp-1-weight-loss-drug-with-fda-nod-for-saxenda),,,,,https://www.benzinga.com/fda-calendar/exact-dates
+"application, or NDA, supplemental NDA, Biologic License Application, or BLA, supplemental BLA, Premarket Approval Application, or Premarket Notification 510(k), etc",,,,,https://www.benzinga.com/fda-calendar/exact-dates
+development is perceived by the market as an incremental step in bringing the company closer to that distant goal of marketing a potential blockbuster drug that could fetch it billions in revenues. This explains the huge positive move in a stock when a company reports a positive clinical readout.,,closer to that distant goal of marketing a potential blockbuster drug that could fetch it billions in revenues. This explains the huge positive move in a stock when a company reports a positive clinical readout.,,,https://www.benzinga.com/fda-calendar/exact-dates
+"development, which usually takes about 10-15 years, on the promise of generating future returns.",,"and as a result generate revenues in the form of licensing revenues. So, it will be years of investment (time money and efforts) into drug development, which usually takes about 10-15 years, on the promise of generating future returns.",,,https://www.benzinga.com/fda-calendar/exact-dates
+ingredients are being made etc.,,,,,https://www.benzinga.com/fda-calendar/exact-dates
+,,,,"May 15, 2025",https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+"Application (NDA) | 2025-09-12 | PDUFA Date | BioCryst Pharmaceuticals, Inc. FDA grants Priority Review of application, with PDUFA target action date of September 12, 2025– [View](https://www.benzinga.com/pressreleases/25/05/g45402162/biocryst-announces-fda-acceptance-of-nda-for-orladeyo-berotralstat-oral-granules-in-patients-with-) | [Get Alert](https://www.benzinga.com/profile/portfolio/?action=login&utm_source=calendars) |",,▲▼ | Price ▲▼ | % change ▲▼ | Name and Treatment ▲▼ | Status ▲▼ | Catalyst Date ▲▼ | Catalyst ▲▼ | Description ▲▼ | Get Alert |,"| BioCryst Pharmaceuticals, Inc. FDA grants Priority Review of application, with PDUFA target action date of September 12, 2025– [View](https://www.benzinga.com/pressreleases/25/05/g45402162/biocryst-announces-fda-acceptance-of-nda-for-orladeyo-berotralstat-oral-granules-in-patients-with-) | [Get Alert](https://www.benzinga.com/profile/portfolio/?action=login&utm_source=calendars) |",,https://www.benzinga.com/fda-calendar/exact-dates
+,,,,| End Date | Meeting | Contributing Office | Center |,https://www.fda.gov/advisory-committees/advisory-committee-calendar

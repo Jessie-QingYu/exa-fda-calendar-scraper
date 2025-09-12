@@ -3,6 +3,7 @@ from typing import Any, Dict, Optional
 from dotenv import load_dotenv
 from exa_py import Exa
 
+
 class ExaClient:
     def __init__(self, api_key: Optional[str] = None) -> None:
         load_dotenv()
@@ -16,7 +17,8 @@ class ExaClient:
         Fetch page text only (no HTML). Try several livecrawl modes if needed.
         """
         tried = []
-        for mode in [livecrawl, "always", "fallback"]:
+        modes = [livecrawl] if livecrawl == "never" else [livecrawl, "always", "fallback"]
+        for mode in modes:
             if mode in tried:
                 continue
             tried.append(mode)
@@ -45,7 +47,8 @@ class ExaClient:
                 return json.loads(res.results[0].summary) or {}
         except Exception as e:
             print(f"[get_structured] error livecrawl='{livecrawl}': {e}")
-        if livecrawl != "always":
+        # Only attempt fallback to 'always' if not explicitly 'never'
+        if livecrawl not in ("always", "never"):
             try:
                 res = self.client.get_contents([url], summary=summary, livecrawl="always")
                 if getattr(res, "results", None) and getattr(res.results[0], "summary", None):
