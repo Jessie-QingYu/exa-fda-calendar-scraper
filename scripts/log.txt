@@ -1,0 +1,78 @@
+(.venv) ➜  exa-fda-calendar-scraper git:(main) ✗ python -m exa_fda_calendar.cli --sources all --livecrawl always --min-structured 3 --save-raw
+/Users/qingyu/.pyenv/versions/3.10.12/lib/python3.10/runpy.py:126: RuntimeWarning: 'exa_fda_calendar.cli' found in sys.modules after import of package 'exa_fda_calendar', but prior to execution of 'exa_fda_calendar.cli'; this may result in unpredictable behaviour
+  warn(RuntimeWarning(msg))
+==> Fetching [checkrare_pdufa_2025] https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+[get_text] succeeded with livecrawl='fallback' (requested 'always')
+[checkrare_pdufa_2025] Structured 0 < 3; trying site parser...
+[checkrare_pdufa_2025] Site parser unified events: 0
+[checkrare_pdufa_2025] Regex fallback events: 9 -> unified 9
+[checkrare_pdufa_2025] unified events: 9
+[checkrare_pdufa_2025] wrote raw to: /Users/qingyu/Desktop/JessieGitProject/intern_demo/exa-fda-calendar-scraper/data/checkrare_pdufa_2025_raw.md
+==> Fetching [fda_advisory_calendar] https://www.fda.gov/advisory-committees/advisory-committee-calendar
+[get_text] succeeded with livecrawl='fallback' (requested 'always')
+[fda_advisory_calendar] Structured 0 < 3; trying site parser...
+[fda_advisory_calendar] Site parser unified events: 1
+[fda_advisory_calendar] unified events: 1
+[fda_advisory_calendar] wrote raw to: /Users/qingyu/Desktop/JessieGitProject/intern_demo/exa-fda-calendar-scraper/data/fda_advisory_calendar_raw.md
+==> Fetching [benzinga_exact] https://www.benzinga.com/fda-calendar/exact-dates
+[get_text] succeeded with livecrawl='fallback' (requested 'always')
+[benzinga_exact] Structured 0 < 3; trying site parser...
+[benzinga_exact] Site parser unified events: 14
+[benzinga_exact] unified events: 14
+[benzinga_exact] wrote raw to: /Users/qingyu/Desktop/JessieGitProject/intern_demo/exa-fda-calendar-scraper/data/benzinga_exact_raw.md
+==> Fetching [unusualwhales] https://unusualwhales.com/fda-calendar
+[get_text] succeeded with livecrawl='fallback' (requested 'always')
+[unusualwhales] Structured 0 < 3; trying site parser...
+[unusualwhales] Site parser unified events: 54
+[unusualwhales] unified events: 54
+[unusualwhales] wrote raw to: /Users/qingyu/Desktop/JessieGitProject/intern_demo/exa-fda-calendar-scraper/data/unusualwhales_raw.md
+==> Fetching [rttnews_page6] https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6
+[get_text] empty after modes: ['always', 'fallback']
+[rttnews_page6] Structured 0 < 3; trying site parser...
+[rttnews_page6] Site parser unified events: 0
+[rttnews_page6] Fallback empty; returning empty unified list.
+[rttnews_page6] unified events: 0
+[rttnews_page6] wrote raw to: /Users/qingyu/Desktop/JessieGitProject/intern_demo/exa-fda-calendar-scraper/data/rttnews_page6_raw.md
+==> Fetching [biopharmcatalyst] https://www.biopharmcatalyst.com/calendars/fda-calendar
+[get_text] succeeded with livecrawl='fallback' (requested 'always')
+[biopharmcatalyst] Structured 0 < 3; trying site parser...
+[biopharmcatalyst] Site parser unified events: 11
+[biopharmcatalyst] unified events: 11
+[biopharmcatalyst] wrote raw to: /Users/qingyu/Desktop/JessieGitProject/intern_demo/exa-fda-calendar-scraper/data/biopharmcatalyst_raw.md
+==> Fetching [fdatracker] https://www.fdatracker.com/fda-calendar/
+[get_text] succeeded with livecrawl='fallback' (requested 'always')
+[fdatracker] Structured 0 < 3; trying site parser...
+[fdatracker] Site parser unified events: 0
+[fdatracker] Fallback empty; returning empty unified list.
+[fdatracker] unified events: 0
+[fdatracker] wrote raw to: /Users/qingyu/Desktop/JessieGitProject/intern_demo/exa-fda-calendar-scraper/data/fdatracker_raw.md
+==> Fetching [bpiq_pdufa] https://app.bpiq.com/pdufa-calendar
+[get_text] succeeded with livecrawl='fallback' (requested 'always')
+[bpiq_pdufa] Structured 0 < 3; trying site parser...
+[bpiq_pdufa] Site parser unified events: 0
+[bpiq_pdufa] Fallback empty; returning empty unified list.
+[bpiq_pdufa] unified events: 0
+[bpiq_pdufa] wrote raw to: /Users/qingyu/Desktop/JessieGitProject/intern_demo/exa-fda-calendar-scraper/data/bpiq_pdufa_raw.md
+==> Fetching [bpiq_catalyst] https://app.bpiq.com/catalyst-calendar
+[get_text] succeeded with livecrawl='fallback' (requested 'always')
+[bpiq_catalyst] Structured 0 < 3; trying site parser...
+[bpiq_catalyst] Site parser unified events: 0
+[bpiq_catalyst] Fallback empty; returning empty unified list.
+[bpiq_catalyst] unified events: 0
+[bpiq_catalyst] wrote raw to: /Users/qingyu/Desktop/JessieGitProject/intern_demo/exa-fda-calendar-scraper/data/bpiq_catalyst_raw.md
+==> Total merged events: 83
+Wrote: data/fda_calendar.json, data/fda_calendar.csv
+
+
+(.venv) ➜  exa-fda-calendar-scraper git:(main) ✗ wc -l data/*.csv
+      15 data/benzinga_exact.csv         14
+      12 data/biopharmcatalyst.csv       11
+       1 data/bpiq_catalyst.csv          0 需要登录
+       1 data/bpiq_pdufa.csv             0 需要登录
+      10 data/checkrare_pdufa_2025.csv   9
+       2 data/fda_advisory_calendar.csv  1
+      84 data/fda_calendar.csv           83 汇总数据  9+1+14+54+11=89 去重后83
+       1 data/fdatracker.csv             0 需要登录
+       1 data/rttnews_page6.csv          0 反爬
+      55 data/unusualwhales.csv          54
+     182 total
