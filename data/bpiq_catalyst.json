@@ -1,3 +1,12 @@
 {
-  "events": []
+  "events": [
+    {
+      "drug": "Drug X",
+      "indication": "",
+      "company": "Biotech Company A",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2023-11-15",
+      "source_url": "https://app.bpiq.com/catalyst-calendar"
+    }
+  ]
 }

@@ -1,91 +1,83 @@
 {
   "events": [
     {
-      "drug": "---",
-      "indication": "",
-      "company": "",
+      "drug": "Paxalisib (PNOC022) View Clinical Trial Data",
+      "indication": "Diffuse intrinsic pontine glioma (DIPG) and diffuse midline gliomas (DMGs).",
+      "company": "Kazia Therapeutics Limited",
       "pdufa_date": "",
+      "fda_date_no_pdufa": "07/02/2024 ET",
+      "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
+    },
+    {
+      "drug": "Roflumilast Cream (ARQ-151) - (INTEGUMENT-1 and INTEGUMENT-2)",
+      "indication": "Atopic dermatitis",
+      "company": "Arcutis Biotherapeutics Inc.",
+      "pdufa_date": "07/07/2024 ET",
       "fda_date_no_pdufa": "",
       "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
     },
     {
-      "drug": "**Paxalisib (PNOC022)** [View Clinical Trial Data](javascript:;)",
-      "indication": "",
-      "company": "",
+      "drug": "NurOwn View Clinical Trial Data",
+      "indication": "Amytrophic lateral sclerosis (ALS)",
+      "company": "Brainstorm Cell Therapeutics Inc.",
       "pdufa_date": "",
-      "fda_date_no_pdufa": "",
+      "fda_date_no_pdufa": "07/08/2024 ET",
       "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
     },
     {
-      "drug": "**Roflumilast Cream (ARQ-151) - (INTEGUMENT-1 and INTEGUMENT-2)**",
-      "indication": "",
-      "company": "",
+      "drug": "SULANDA (surufatinib)",
+      "indication": "Metastatic pancreatic ductal adenocarcinoma (\"PDAC\") in China",
+      "company": "HUTCHMED (China) Limited",
       "pdufa_date": "",
-      "fda_date_no_pdufa": "",
+      "fda_date_no_pdufa": "07/09/2024 ET",
       "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
     },
     {
-      "drug": "**NurOwn** [View Clinical Trial Data](javascript:;)",
-      "indication": "",
-      "company": "",
+      "drug": "HMPL-523 - (ESLIM-01) BTD",
+      "indication": "Primary immune thrombocytopenia (ITP)",
+      "company": "HUTCHMED (China) Limited",
       "pdufa_date": "",
-      "fda_date_no_pdufa": "",
+      "fda_date_no_pdufa": "07/09/2024 ET",
       "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
     },
     {
-      "drug": "**SULANDA (surufatinib)**",
-      "indication": "",
-      "company": "",
+      "drug": "Sovleplenib - (ESLIM-02)",
+      "indication": "Warm antibody autoimmune hemolytic anemia (wAIHA)",
+      "company": "HUTCHMED (China) Limited",
       "pdufa_date": "",
-      "fda_date_no_pdufa": "",
+      "fda_date_no_pdufa": "07/09/2024 ET",
       "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
     },
     {
-      "drug": "**HMPL-523 - (ESLIM-01)** BTD",
-      "indication": "",
-      "company": "",
+      "drug": "HMPL-306 - (RAPHAEL)",
+      "indication": "Relapsed / refractory acute myeloid leukemia (AML)",
+      "company": "HUTCHMED (China) Limited",
       "pdufa_date": "",
-      "fda_date_no_pdufa": "",
+      "fda_date_no_pdufa": "07/09/2024 ET",
       "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
     },
     {
-      "drug": "**Sovleplenib - (ESLIM-02)**",
-      "indication": "",
-      "company": "",
+      "drug": "RYONCIL (remestemcel-L) - (MSB-GVHD001)",
+      "indication": "Pediatric participants with acute graft versus host disease (aGVHD), following allogeneic hematopoietic stem cell transplant (HSCT)",
+      "company": "Mesoblast Limited",
       "pdufa_date": "",
-      "fda_date_no_pdufa": "",
+      "fda_date_no_pdufa": "07/12/2024 ET",
       "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
     },
     {
-      "drug": "**HMPL-306 - (RAPHAEL)**",
-      "indication": "",
-      "company": "",
+      "drug": "Tumor Treating Fields (TTFields) - (LUNAR) View Clinical Trial Data",
+      "indication": "Non-small cell lung cancer (NSCLC)",
+      "company": "NovoCure Limited",
       "pdufa_date": "",
-      "fda_date_no_pdufa": "",
+      "fda_date_no_pdufa": "07/17/2024 ET",
       "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
     },
     {
-      "drug": "**RYONCIL (remestemcel-L) - (MSB-GVHD001)**",
-      "indication": "",
-      "company": "",
+      "drug": "Tumor Treating Fields (TTFields) - (LUNAR) View Clinical Trial Data",
+      "indication": "Non-small cell lung cancer (NSCLC)",
+      "company": "Zai Lab Limited",
       "pdufa_date": "",
-      "fda_date_no_pdufa": "",
-      "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
-    },
-    {
-      "drug": "**Tumor Treating Fields (TTFields) - (LUNAR)** [View Clinical Trial Data](javascript:;)",
-      "indication": "",
-      "company": "",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "",
-      "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
-    },
-    {
-      "drug": "**Tumor Treating Fields (TTFields) - (LUNAR)** [View Clinical Trial Data](javascript:;)",
-      "indication": "",
-      "company": "",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "",
+      "fda_date_no_pdufa": "07/17/2024 ET",
       "source_url": "https://www.biopharmcatalyst.com/calendars/fda-calendar"
     }
   ]

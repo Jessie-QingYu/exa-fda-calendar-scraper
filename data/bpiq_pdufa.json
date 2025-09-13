@@ -1,3 +1,20 @@
 {
-  "events": []
+  "events": [
+    {
+      "drug": "Unknown Drug 1",
+      "indication": "",
+      "company": "Unknown Company 1",
+      "pdufa_date": "September 2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://app.bpiq.com/pdufa-calendar"
+    },
+    {
+      "drug": "Unknown Drug 2",
+      "indication": "",
+      "company": "Unknown Company 2",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "September 2025",
+      "source_url": "https://app.bpiq.com/pdufa-calendar"
+    }
+  ]
 }

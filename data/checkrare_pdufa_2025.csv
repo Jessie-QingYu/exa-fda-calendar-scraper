@@ -1,10 +1,62 @@
 drug,indication,company,pdufa_date,fda_date_no_pdufa,source_url
-,,,,"May 15, 2025",https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
-,,,,2023-24-07,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
-,,,,2028-24-08,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
-,,,,2025-24-20,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
-,,,,2025-54-00,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
-,,,,2025-25-20,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
-,,,,2018-25-02,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
-,,,,2025-24-20,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
-,,[11.30.2025],,2001-25-06,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Ryoncil (remestemcel),Steroid-refractory acute graft versus host disease,Mesoblast Limited,1.7.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Tabelecleucel (Tab-cel),Epstein-Barr Virus Positive Post-Transplant Lymphoproliferative Disease,Atara Biotherapeutics,1.15.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Vimseltinib,Tenosynovial giant cell tumor (TGCT),Deciphera Pharmaceuticals,2.17.2025﻿,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Ctexli (chenodiol),Cerebrotendinous xanthomatosis,Mirum Therapeutics,2.21.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Mirdametinib,Neurofibromatosis type 1-associated plexiform neurofibromas (NF1-PN),Springworks Therapeutics,2.28.2025﻿,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Encelto (revakinagene taroretcel-lwey),Macular telangiectasia type 2 (MacTel),Neurotech Pharmaceuticals,3.6.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Fabhalta (iptacopan),C3 glomerulopathy (C3G),Novartis,3.20.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Rivoceranib/Camrelizumab,Unresectable or metastatic hepatocellular carcinoma,Elevar Therapeutics,3.20.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Vutrisiran,ATTR-CM,Alnylam Pharmaceuticals,3.23.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Diazoxide choline (DCCR),Prader-Willi syndrome,Soleno Therapeutics,3.27.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Fitusiran,Hemophilia A or B,Sanofi,3.28.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Vanrafia (atrasentan),IgA nephropathy,Novartis,4.2.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Uplizna (inebilizumab),Immunoglobulin G4-related disease (IgG4-RD),Amgen,4.3.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Nivolumab plus ipilimumab,Hepatocellular carcinoma (HCC),Bristol Myers Squibb,4.21.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Prademagene zamikeracel (pz-cel),Epidermolysis bullosa,Abeona Therapeutics,4.29.2025﻿,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Elamipretide,Barth syndrome,Stealth BioTherapeutics,4.29.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Nipocalimab,Generalized myasthenia gravis,Johnson & Johnson,4.30.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Yutrepia (treprostinil),Pulmonary arterial hypertension,Liquidia Corporation,5.24.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Welireg (belzutifan),Advanced pheochromocytoma and paraganglioma (PPGL),Merck,5.26.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Khindivi (hydrocortisone),Pediatric adrenal insufficiency,Eton Pharmaceuticals,5.28.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Sebetralstat,Hereditary angioedema,KalVista Pharmaceuticals,6.17.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Andembry (garadacimab),Hereditary angioedema,CSL,6.18.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Nitisinone,Alkaptonuria,Cycle Pharmaceuticals,6.19.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Dupixent,Bullous Pemphigoid,Sanofi,6.20.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Taletrectinib,Advanced ROS1-positive non-small cell lung cancer,Nuvation Bio,6.23.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Gamifant (emapalumab),Still's disease,Sobi,6.28.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Gammagard Liquid ERC (immune globulin infusion),Primary immunodeficiencies,Takeda,6.30.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Linvoseltamab,Multiple myeloma,Regeneron Pharmaceuticals,7.10.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Avatrombopag,Immune thrombocytopenia,Sobi North America,7.24.2025﻿,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+TransCon hGH,Growth hormone deficiency,Ascendis Pharma,7.27.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Empaveli (pegcetacoplan),C3G and primary IC-MPGN,Apellis Pharmaceuticals,7.28.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Sepiapterin,Phenylketonuria (PKU),PTC Therapeutics,7.29.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Odronextamab,Follicular lymphoma,Regeneron Pharmaceuticals,7.30.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Alhemo (concizumab),Hemophilia A or B without inhibitors,Novo Nordisk,7.31.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+UX111,Sanfilippo syndrome (MPS IIIA),Ultragenyx,8.18.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Dordaviprone,H3 K27M-mutant diffuse glioma,Jazz Pharmaceuticals,8.18.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Vatiquinone,Friedreich's ataxia,PTC Therapeutics,8.19.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Donidalorsen,Hereditary Angioedema,Ionis Pharmaceuticals,8.21.2025﻿,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+PRGN-2012 (zopapogene imadenovec),Recurrent respiratory papillomatosis (RRP),Precigen,8.27.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Filspari,IgA nephropathy,Travere Therapeutics,8.28.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Rilzabrutinib,Immune thrombocytopenia,Sanofi,8.29.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Deramiocel,Duchenne muscular dystrophy,Capricor Therapeutics,8.31.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Orladeyo (berotralstat),Hereditary angioedema (HAE),BioCryst Pharmaceuticals,9.12.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Apitegromab,Spinal muscular atrophy,Scholar Rock,9.22.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Paltusotine,Acromegaly,Crinetics Pharmaceuticals,9.25.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+CUTX-101 (Copper Histidinate),Menkes disease,Fortress Biotech,9.30.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Epioxa (Epi-on),Keratoconus,Glaukos Corporation,10.20.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Belantamab mafodotin,Multiple myeloma,GSK,10.23.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Revuforj (revumenib),mNPM1 acute myeloid leukemia,Syndax Pharmaceuticals,10.25.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Plozasiran,Familial chylomicronemia syndrome,Arrowhead Pharmaceuticals,11.18.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Sibeprenlimab,Immunoglobulin A nephropathy (IgAN),Otsuka Pharmaceutical Co.,11.28.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Ziftomenib,Relapsed or refractory acute myeloid leukemia (AML) with an NPM1 mutation,Kura Oncology and Kyowa Kirin,11.30.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Pyrukynd (mitapivat),Alpha- and beta-thalassemia,Agios Pharmaceuticals,12.7.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Uplizna,Myasthenia gravis,Amgen,12.14.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Aficamten,Obstructive hypertrophic cardiomyopathy (oHCM),Cytokinetics,12.26.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Relacorilant,Cushing's syndrome,Corcept Therapeutics,12.30.2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Troriluzole,Spinocerebellar ataxia (SCA),Biohaven,Q4 2025,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Tividenofusp alfa,Hunter syndrome (MPS II),Denali Therapeutics,1.5.2026,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Clemidsogene lanparvovec (RGX-121),Mucopolysaccharidosis II (MPS II),REGENXBIO,2.8.2026,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Tabelecleucel,Epstein-Barr virus positive post-transplant lymphoproliferative disease (EBV+ PTLD),Pierre Fabre Pharmaceuticals,10.10.2026,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/
+Inqovi (decitabine and cedazuridine) plus Venclexta (venetoclax),Acute myeloid leukemia,Taiho Oncology,2.25.2026,,https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/

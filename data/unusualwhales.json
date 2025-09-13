@@ -1,14 +1,6 @@
 {
   "events": [
     {
-      "drug": "---",
-      "indication": "",
-      "company": "",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "---",
-      "source_url": "https://unusualwhales.com/fda-calendar"
-    },
-    {
       "drug": "Mitapivat",
       "indication": "",
       "company": "Agios Pharmaceuticals",
@@ -67,7 +59,7 @@
     {
       "drug": "Nipocalimab",
       "indication": "",
-      "company": "",
+      "company": "Johnson & Johnson",
       "pdufa_date": "",
       "fda_date_no_pdufa": "2025-02-13",
       "source_url": "https://www.benzinga.com/pressreleases/25/02/n43691284/new-nipocalimab-data-published-in-mabs-journal-details-differentiated-molecular-design-clinical-pr"
@@ -83,7 +75,7 @@
     {
       "drug": "AVERSA",
       "indication": "",
-      "company": "",
+      "company": "Nutriband Inc.",
       "pdufa_date": "",
       "fda_date_no_pdufa": "2025-02-13",
       "source_url": "https://www.benzinga.com/pressreleases/25/02/g43688524/nutriband-and-kindeva-drug-delivery-formalize-exclusive-development-partnership-for-aversa-fentany"
@@ -107,7 +99,7 @@
     {
       "drug": "TCB008",
       "indication": "",
-      "company": "",
+      "company": "TC BioPharm",
       "pdufa_date": "",
       "fda_date_no_pdufa": "2025-02-13",
       "source_url": "https://www.benzinga.com/pressreleases/25/02/n43692157/tcbp-announces-successful-completion-of-cohort-a-in-the-achieve-clinical-trial"

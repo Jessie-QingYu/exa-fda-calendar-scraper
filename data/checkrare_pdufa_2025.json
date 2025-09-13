@@ -1,75 +1,491 @@
 {
   "events": [
     {
-      "drug": "",
-      "indication": "",
-      "company": "",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "May 15, 2025",
+      "drug": "Ryoncil (remestemcel)",
+      "indication": "Steroid-refractory acute graft versus host disease",
+      "company": "Mesoblast Limited",
+      "pdufa_date": "1.7.2025",
+      "fda_date_no_pdufa": "",
       "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
     },
     {
-      "drug": "",
-      "indication": "",
-      "company": "",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "2023-24-07",
+      "drug": "Tabelecleucel (Tab-cel)",
+      "indication": "Epstein-Barr Virus Positive Post-Transplant Lymphoproliferative Disease",
+      "company": "Atara Biotherapeutics",
+      "pdufa_date": "1.15.2025",
+      "fda_date_no_pdufa": "",
       "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
     },
     {
-      "drug": "",
-      "indication": "",
-      "company": "",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "2028-24-08",
+      "drug": "Vimseltinib",
+      "indication": "Tenosynovial giant cell tumor (TGCT)",
+      "company": "Deciphera Pharmaceuticals",
+      "pdufa_date": "2.17.2025\ufeff",
+      "fda_date_no_pdufa": "",
       "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
     },
     {
-      "drug": "",
-      "indication": "",
-      "company": "",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "2025-24-20",
+      "drug": "Ctexli (chenodiol)",
+      "indication": "Cerebrotendinous xanthomatosis",
+      "company": "Mirum Therapeutics",
+      "pdufa_date": "2.21.2025",
+      "fda_date_no_pdufa": "",
       "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
     },
     {
-      "drug": "",
-      "indication": "",
-      "company": "",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "2025-54-00",
+      "drug": "Mirdametinib",
+      "indication": "Neurofibromatosis type 1-associated plexiform neurofibromas (NF1-PN)",
+      "company": "Springworks Therapeutics",
+      "pdufa_date": "2.28.2025\ufeff",
+      "fda_date_no_pdufa": "",
       "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
     },
     {
-      "drug": "",
-      "indication": "",
-      "company": "",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "2025-25-20",
+      "drug": "Encelto (revakinagene taroretcel-lwey)",
+      "indication": "Macular telangiectasia type 2 (MacTel)",
+      "company": "Neurotech Pharmaceuticals",
+      "pdufa_date": "3.6.2025",
+      "fda_date_no_pdufa": "",
       "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
     },
     {
-      "drug": "",
-      "indication": "",
-      "company": "",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "2018-25-02",
+      "drug": "Fabhalta (iptacopan)",
+      "indication": "C3 glomerulopathy (C3G)",
+      "company": "Novartis",
+      "pdufa_date": "3.20.2025",
+      "fda_date_no_pdufa": "",
       "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
     },
     {
-      "drug": "",
-      "indication": "",
-      "company": "",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "2025-24-20",
+      "drug": "Rivoceranib/Camrelizumab",
+      "indication": "Unresectable or metastatic hepatocellular carcinoma",
+      "company": "Elevar Therapeutics",
+      "pdufa_date": "3.20.2025",
+      "fda_date_no_pdufa": "",
       "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
     },
     {
-      "drug": "",
-      "indication": "",
-      "company": "[11.30.2025]",
-      "pdufa_date": "",
-      "fda_date_no_pdufa": "2001-25-06",
+      "drug": "Vutrisiran",
+      "indication": "ATTR-CM",
+      "company": "Alnylam Pharmaceuticals",
+      "pdufa_date": "3.23.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Diazoxide choline (DCCR)",
+      "indication": "Prader-Willi syndrome",
+      "company": "Soleno Therapeutics",
+      "pdufa_date": "3.27.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Fitusiran",
+      "indication": "Hemophilia A or B",
+      "company": "Sanofi",
+      "pdufa_date": "3.28.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Vanrafia (atrasentan)",
+      "indication": "IgA nephropathy",
+      "company": "Novartis",
+      "pdufa_date": "4.2.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Uplizna (inebilizumab)",
+      "indication": "Immunoglobulin G4-related disease (IgG4-RD)",
+      "company": "Amgen",
+      "pdufa_date": "4.3.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Nivolumab plus ipilimumab",
+      "indication": "Hepatocellular carcinoma (HCC)",
+      "company": "Bristol Myers Squibb",
+      "pdufa_date": "4.21.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Prademagene zamikeracel (pz-cel)",
+      "indication": "Epidermolysis bullosa",
+      "company": "Abeona Therapeutics",
+      "pdufa_date": "4.29.2025\ufeff",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Elamipretide",
+      "indication": "Barth syndrome",
+      "company": "Stealth BioTherapeutics",
+      "pdufa_date": "4.29.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Nipocalimab",
+      "indication": "Generalized myasthenia gravis",
+      "company": "Johnson & Johnson",
+      "pdufa_date": "4.30.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Yutrepia (treprostinil)",
+      "indication": "Pulmonary arterial hypertension",
+      "company": "Liquidia Corporation",
+      "pdufa_date": "5.24.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Welireg (belzutifan)",
+      "indication": "Advanced pheochromocytoma and paraganglioma (PPGL)",
+      "company": "Merck",
+      "pdufa_date": "5.26.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Khindivi (hydrocortisone)",
+      "indication": "Pediatric adrenal insufficiency",
+      "company": "Eton Pharmaceuticals",
+      "pdufa_date": "5.28.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Sebetralstat",
+      "indication": "Hereditary angioedema",
+      "company": "KalVista Pharmaceuticals",
+      "pdufa_date": "6.17.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Andembry (garadacimab)",
+      "indication": "Hereditary angioedema",
+      "company": "CSL",
+      "pdufa_date": "6.18.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Nitisinone",
+      "indication": "Alkaptonuria",
+      "company": "Cycle Pharmaceuticals",
+      "pdufa_date": "6.19.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Dupixent",
+      "indication": "Bullous Pemphigoid",
+      "company": "Sanofi",
+      "pdufa_date": "6.20.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Taletrectinib",
+      "indication": "Advanced ROS1-positive non-small cell lung cancer",
+      "company": "Nuvation Bio",
+      "pdufa_date": "6.23.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Gamifant (emapalumab)",
+      "indication": "Still's disease",
+      "company": "Sobi",
+      "pdufa_date": "6.28.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Gammagard Liquid ERC (immune globulin infusion)",
+      "indication": "Primary immunodeficiencies",
+      "company": "Takeda",
+      "pdufa_date": "6.30.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Linvoseltamab",
+      "indication": "Multiple myeloma",
+      "company": "Regeneron Pharmaceuticals",
+      "pdufa_date": "7.10.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Avatrombopag",
+      "indication": "Immune thrombocytopenia",
+      "company": "Sobi North America",
+      "pdufa_date": "7.24.2025\ufeff",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "TransCon hGH",
+      "indication": "Growth hormone deficiency",
+      "company": "Ascendis Pharma",
+      "pdufa_date": "7.27.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Empaveli (pegcetacoplan)",
+      "indication": "C3G and primary IC-MPGN",
+      "company": "Apellis Pharmaceuticals",
+      "pdufa_date": "7.28.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Sepiapterin",
+      "indication": "Phenylketonuria (PKU)",
+      "company": "PTC Therapeutics",
+      "pdufa_date": "7.29.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Odronextamab",
+      "indication": "Follicular lymphoma",
+      "company": "Regeneron Pharmaceuticals",
+      "pdufa_date": "7.30.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Alhemo (concizumab)",
+      "indication": "Hemophilia A or B without inhibitors",
+      "company": "Novo Nordisk",
+      "pdufa_date": "7.31.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "UX111",
+      "indication": "Sanfilippo syndrome (MPS IIIA)",
+      "company": "Ultragenyx",
+      "pdufa_date": "8.18.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Dordaviprone",
+      "indication": "H3 K27M-mutant diffuse glioma",
+      "company": "Jazz Pharmaceuticals",
+      "pdufa_date": "8.18.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Vatiquinone",
+      "indication": "Friedreich's ataxia",
+      "company": "PTC Therapeutics",
+      "pdufa_date": "8.19.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Donidalorsen",
+      "indication": "Hereditary Angioedema",
+      "company": "Ionis Pharmaceuticals",
+      "pdufa_date": "8.21.2025\ufeff",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "PRGN-2012 (zopapogene imadenovec)",
+      "indication": "Recurrent respiratory papillomatosis (RRP)",
+      "company": "Precigen",
+      "pdufa_date": "8.27.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Filspari",
+      "indication": "IgA nephropathy",
+      "company": "Travere Therapeutics",
+      "pdufa_date": "8.28.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Rilzabrutinib",
+      "indication": "Immune thrombocytopenia",
+      "company": "Sanofi",
+      "pdufa_date": "8.29.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Deramiocel",
+      "indication": "Duchenne muscular dystrophy",
+      "company": "Capricor Therapeutics",
+      "pdufa_date": "8.31.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Orladeyo (berotralstat)",
+      "indication": "Hereditary angioedema (HAE)",
+      "company": "BioCryst Pharmaceuticals",
+      "pdufa_date": "9.12.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Apitegromab",
+      "indication": "Spinal muscular atrophy",
+      "company": "Scholar Rock",
+      "pdufa_date": "9.22.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Paltusotine",
+      "indication": "Acromegaly",
+      "company": "Crinetics Pharmaceuticals",
+      "pdufa_date": "9.25.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "CUTX-101 (Copper Histidinate)",
+      "indication": "Menkes disease",
+      "company": "Fortress Biotech",
+      "pdufa_date": "9.30.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Epioxa (Epi-on)",
+      "indication": "Keratoconus",
+      "company": "Glaukos Corporation",
+      "pdufa_date": "10.20.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Belantamab mafodotin",
+      "indication": "Multiple myeloma",
+      "company": "GSK",
+      "pdufa_date": "10.23.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Revuforj (revumenib)",
+      "indication": "mNPM1 acute myeloid leukemia",
+      "company": "Syndax Pharmaceuticals",
+      "pdufa_date": "10.25.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Plozasiran",
+      "indication": "Familial chylomicronemia syndrome",
+      "company": "Arrowhead Pharmaceuticals",
+      "pdufa_date": "11.18.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Sibeprenlimab",
+      "indication": "Immunoglobulin A nephropathy (IgAN)",
+      "company": "Otsuka Pharmaceutical Co.",
+      "pdufa_date": "11.28.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Ziftomenib",
+      "indication": "Relapsed or refractory acute myeloid leukemia (AML) with an NPM1 mutation",
+      "company": "Kura Oncology and Kyowa Kirin",
+      "pdufa_date": "11.30.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Pyrukynd (mitapivat)",
+      "indication": "Alpha- and beta-thalassemia",
+      "company": "Agios Pharmaceuticals",
+      "pdufa_date": "12.7.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Uplizna",
+      "indication": "Myasthenia gravis",
+      "company": "Amgen",
+      "pdufa_date": "12.14.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Aficamten",
+      "indication": "Obstructive hypertrophic cardiomyopathy (oHCM)",
+      "company": "Cytokinetics",
+      "pdufa_date": "12.26.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Relacorilant",
+      "indication": "Cushing's syndrome",
+      "company": "Corcept Therapeutics",
+      "pdufa_date": "12.30.2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Troriluzole",
+      "indication": "Spinocerebellar ataxia (SCA)",
+      "company": "Biohaven",
+      "pdufa_date": "Q4 2025",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Tividenofusp alfa",
+      "indication": "Hunter syndrome (MPS II)",
+      "company": "Denali Therapeutics",
+      "pdufa_date": "1.5.2026",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Clemidsogene lanparvovec (RGX-121)",
+      "indication": "Mucopolysaccharidosis II (MPS II)",
+      "company": "REGENXBIO",
+      "pdufa_date": "2.8.2026",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Tabelecleucel",
+      "indication": "Epstein-Barr virus positive post-transplant lymphoproliferative disease (EBV+ PTLD)",
+      "company": "Pierre Fabre Pharmaceuticals",
+      "pdufa_date": "10.10.2026",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
+    },
+    {
+      "drug": "Inqovi (decitabine and cedazuridine) plus Venclexta (venetoclax)",
+      "indication": "Acute myeloid leukemia",
+      "company": "Taiho Oncology",
+      "pdufa_date": "2.25.2026",
+      "fda_date_no_pdufa": "",
       "source_url": "https://checkrare.com/2025-orphan-drugs-pdufa-dates-and-fda-approvals/"
     }
   ]

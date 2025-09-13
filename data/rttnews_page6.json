@@ -1,3 +1,164 @@
 {
-  "events": []
+  "events": [
+    {
+      "drug": "",
+      "indication": "08/21/2025 FDA decision on donidalorsen for the treatment of hereditary angioedema",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-08-21",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "08/21/2025 FDA decision on donidalorsen for prophylaxis to prevent attacks of hereditary angioedema",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-08-21",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "08/27/2025 FDA decision on ONS-5010 for the treatment of wet age-related macular degeneration",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-08-27",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "08/27/2025 FDA decision on PRGN-2012 for the treatment of adults with recurrent respiratory papillom",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-08-27",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "08/27/2025 FDA decision on investigational kidney cancer PET imaging agent TLX250-CDx",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-08-27",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "08/28/2025 FDA decision on sNDA requesting modification of liver monitoring REMS requirement for FIL",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-08-28",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "08/28/2025 FDA decision on sNDA requesting modification of liver monitoring for FILSPARI in IgAN",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-08-28",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "08/29/2025 FDA decision on Rilzabrutinib for potential use in immune thrombocytopenia (ITP)",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-08-29",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "08/31/2025 FDA decision on Deramiocel to treat Duchenne muscular dystrophy cardiomyopathy",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-08-31",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "FDA declined to approve Deramiocel for Duchenne Muscular Dystrophy on July 11, 2025-",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-07-11",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "08/31/2025 FDA decision on LEQEMBI subcutaneous autoinjector for weekly maintenance dosing for treat",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-08-31",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-19",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "March 19, 2025 09:33 ET This week's video covers several intriguing topics: a merger of two pharma c",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-03-19",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-09-12",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-09-12",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-09-11",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "[**MODD, GALT, XCUR, PEPG, BSGM Stocks Pop After Hours On Clinical Updates And Strategic Moves** Sep",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-09-12",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "Several biotech stocks made sharp moves in after-hours trading on Thursday, September 11, 2025, driv",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-09-11",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "- [Tempus AI Receives FDA Clearance For Updated Tempus Pixel](https://www.rttnews.com/3573492/tempus",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-09-11",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    },
+    {
+      "drug": "",
+      "indication": "- [Amylyx, Amneal, And Argenx Hit 52-Week Highs Amid Drug Pipeline Momentum And Strategic Catalysts]",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "2025-09-11",
+      "source_url": "https://www.rttnews.com/corpinfo/fdacalendar.aspx?PageNum=6"
+    }
+  ]
 }

@@ -1,12 +1,11 @@
 drug,indication,company,pdufa_date,fda_date_no_pdufa,source_url
----,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
-**Paxalisib (PNOC022)** [View Clinical Trial Data](javascript:;),,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
-**Roflumilast Cream (ARQ-151) - (INTEGUMENT-1 and INTEGUMENT-2)**,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
-**NurOwn** [View Clinical Trial Data](javascript:;),,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
-**SULANDA (surufatinib)**,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
-**HMPL-523 - (ESLIM-01)** BTD,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
-**Sovleplenib - (ESLIM-02)**,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
-**HMPL-306 - (RAPHAEL)**,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
-**RYONCIL (remestemcel-L) - (MSB-GVHD001)**,,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
-**Tumor Treating Fields (TTFields) - (LUNAR)** [View Clinical Trial Data](javascript:;),,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
-**Tumor Treating Fields (TTFields) - (LUNAR)** [View Clinical Trial Data](javascript:;),,,,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+Paxalisib (PNOC022) View Clinical Trial Data,Diffuse intrinsic pontine glioma (DIPG) and diffuse midline gliomas (DMGs).,Kazia Therapeutics Limited,,07/02/2024 ET,https://www.biopharmcatalyst.com/calendars/fda-calendar
+Roflumilast Cream (ARQ-151) - (INTEGUMENT-1 and INTEGUMENT-2),Atopic dermatitis,Arcutis Biotherapeutics Inc.,07/07/2024 ET,,https://www.biopharmcatalyst.com/calendars/fda-calendar
+NurOwn View Clinical Trial Data,Amytrophic lateral sclerosis (ALS),Brainstorm Cell Therapeutics Inc.,,07/08/2024 ET,https://www.biopharmcatalyst.com/calendars/fda-calendar
+SULANDA (surufatinib),"Metastatic pancreatic ductal adenocarcinoma (""PDAC"") in China",HUTCHMED (China) Limited,,07/09/2024 ET,https://www.biopharmcatalyst.com/calendars/fda-calendar
+HMPL-523 - (ESLIM-01) BTD,Primary immune thrombocytopenia (ITP),HUTCHMED (China) Limited,,07/09/2024 ET,https://www.biopharmcatalyst.com/calendars/fda-calendar
+Sovleplenib - (ESLIM-02),Warm antibody autoimmune hemolytic anemia (wAIHA),HUTCHMED (China) Limited,,07/09/2024 ET,https://www.biopharmcatalyst.com/calendars/fda-calendar
+HMPL-306 - (RAPHAEL),Relapsed / refractory acute myeloid leukemia (AML),HUTCHMED (China) Limited,,07/09/2024 ET,https://www.biopharmcatalyst.com/calendars/fda-calendar
+RYONCIL (remestemcel-L) - (MSB-GVHD001),"Pediatric participants with acute graft versus host disease (aGVHD), following allogeneic hematopoietic stem cell transplant (HSCT)",Mesoblast Limited,,07/12/2024 ET,https://www.biopharmcatalyst.com/calendars/fda-calendar
+Tumor Treating Fields (TTFields) - (LUNAR) View Clinical Trial Data,Non-small cell lung cancer (NSCLC),NovoCure Limited,,07/17/2024 ET,https://www.biopharmcatalyst.com/calendars/fda-calendar
+Tumor Treating Fields (TTFields) - (LUNAR) View Clinical Trial Data,Non-small cell lung cancer (NSCLC),Zai Lab Limited,,07/17/2024 ET,https://www.biopharmcatalyst.com/calendars/fda-calendar

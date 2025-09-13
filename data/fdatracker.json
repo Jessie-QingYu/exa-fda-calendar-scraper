@@ -1,3 +1,20 @@
 {
-  "events": []
+  "events": [
+    {
+      "drug": "",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://www.fdatracker.com/fda-calendar/"
+    },
+    {
+      "drug": "",
+      "indication": "",
+      "company": "",
+      "pdufa_date": "",
+      "fda_date_no_pdufa": "",
+      "source_url": "https://www.fdatracker.com/fda-calendar/"
+    }
+  ]
 }
